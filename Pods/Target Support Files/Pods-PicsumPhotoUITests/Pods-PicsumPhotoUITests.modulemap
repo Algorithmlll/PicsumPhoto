@@ -1,0 +1,6 @@
+framework module Pods_PicsumPhotoUITests {
+  umbrella header "Pods-PicsumPhotoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
